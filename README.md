@@ -1,5 +1,5 @@
-# 2021-mju-multidisciplinary-capstone-nth
-Greeting, developers! This is team-nth of MJU Multidisciplinary Capstone Design in Fall 2021!
+# goodbye-thingji
+Greeting, developers! This is team "Goodbye Thingji" of MJU Multidisciplinary Capstone Design in Fall 2021!
 
 ## Discord Server
 - For current members: [Original Link](https://discord.com/channels/857978207713361932/857978208421937204)
