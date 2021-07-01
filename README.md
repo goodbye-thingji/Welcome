@@ -12,4 +12,5 @@ Greeting, developers! This is team "Goodbye Thingji" of MJU Multidisciplinary Ca
 - 이주호 ([13circle](https://github.com/13circle))
 
 ## Projects
-- Coming soon! Trust me, upcoming projects will be your favorite boilerplates!
+- [weather_app](https://github.com/goodbye-thingji/weather_app)
+- [thingji-weathercast](https://github.com/goodbye-thingji/thingji-weathercast)
