@@ -13,4 +13,4 @@ Greeting, developers! This is team "Goodbye Thingji" of MJU Multidisciplinary Ca
 
 ## Projects
 - [weather_app](https://github.com/goodbye-thingji/weather_app)
-- [thingji-weathercast](https://github.com/goodbye-thingji/thingji-weathercast)
+- [phone-pineapple-apple-phone](https://github.com/goodbye-thingji/phone-pineapple-apple-phone)
